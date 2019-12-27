@@ -884,7 +884,7 @@ footer:
   # Any custom text can be defined here.
   custom_text: 托管于<a href="https://github.com/" target="_blank" rel="nofollow"> GitHub</a>. <a href="https://www.upyun.com/" target="_blank" rel="nofollow">又拍云</a> 提供 CDN 服务. <a href="http://www.google.com/analytics/" target="_blank" rel="nofollow">Google Analytics </a>提供网站统计服务. <a href="https://www.cloudxns.net/" target="_blank" rel="nofollow">CloudXNS </a>提供 DNS 解析服务.
   sitemap: /sitemap.xml
-  beian: 鲁ICP备16000184号
+  beian: 鲁ICP备88888888号
 
 online_api: wss://api.diygod.me/online/
 
